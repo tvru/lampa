@@ -2,14 +2,14 @@
     'use strict';
 	Lampa.Lang.add({
         pirate_store: {
-            ru: "Красная линия",
-            en: "Red Line",
-            uk: "Червона лінія",
-            be: "Чырвоная лінія",
-            zh: "红线",
-            pt: "Linha vermelha",
-            bg: "Червена линия",
-			he: "תוספים פיראטיים"
+        	ru: "Красная линия",
+        	en: "Red Line",
+        	uk: "Червона лінія",
+        	be: "Чырвоная лінія",
+        	zh: "红线",
+        	pt: "Linha vermelha",
+        	bg: "Червена линия",
+		he: "קו אדום"
         }
     });
     function addStore() {
