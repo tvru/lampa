@@ -5,25 +5,25 @@
       "title": "Популярные",
       "results": [
        		{
-		  "name": "BwaJS",
-		  "author": "@bwato",
-		  "link": "https://bwa.to/o",
-		  "descr": "Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
-		  "available_lampa": 1
+		"name": "Онлайн Мод",
+		"author": "@t_anton",
+		"link": "https://nb557.github.io/plugins/online_mod.js",
+		"descr": "Фильмы и сериалы в онлайн",
+		"available_lampa": 1
 		},
 		{
-		  "name": "Телевидение by Skaz ",
-		  "author": "@helpiptv",
-		  "link": "http://skaz.tv/tv.js",
-		  "descr": "Телевидение и Онлайн 4к. 1500+ каналов по подписке, IPTV плейлисты, тест через @skaztv_bot",
-		  "available_lampa": 1
+		"name": "BwaRC",
+		 "author": "@bwato",
+		"link": "https://bwa.to/rc",
+		"descr": "Новая версия. Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
+		"available_lampa": 1
 		},
 		{
-		  "name": "MODS's",
-		  "author": "@modss_group",
-		  "link": "http://lampa.stream/modss",
-		  "descr": "Фильмы и сериалы в онлайн. Плюс различные дополнения через меню настроек Modss.",
-		  "available_lampa": 1
+		"name": "Публичные парсеры",
+    		"author": "@lme_chat",
+    		"link": "https://lampame.github.io/main/pubtorr.js",
+    		"descr": "Сборник публичных парсеров отображением статуса доступности",
+    		"available_lampa": 1
 		}
       ],
       "hpu": "best"
