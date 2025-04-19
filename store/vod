@@ -1509,7 +1509,4 @@
     }
   }
   if (!window.lampac_plugin) startPlugin();
-
-var donate=$('<div class="Message" style="line-height: 0.5;color: #ffffff;font-family: &quot;SegoeUI&quot;, sans-serif;font-size: 1em;box-sizing: border-box;outline: none;user-select: none;display: flex;-webkit-box-align: start;align-items: flex-start;position: relative;background-color: rgba(255, 255, 255, 0.1);border-radius: 0.3em;margin: 1.5em 2em;"><div class="ad-server__text">Друзья, если вам нравится плагин и вы хотите поддержать меня, буду рад 💙<br>С любой карты через DONATIONALERTS по QR:</br></div><img src="https://static.donationalerts.ru/uploads/qr/499824/qr_8dd217ca7ba94077691ebe15c529391d.png" class="ad-server__qr"></div>');Lampa.Storage.listener.follow("change",function(e){if("activity"==e.name&&"lampavod"==Lampa.Activity.active().component)var t=setInterval(function(){null!==document.querySelector(".online-prestige-watched")&&($(".online-prestige-watched").after(donate),clearInterval(t))},50)});
-
 })();
