@@ -14,7 +14,7 @@
 		{
 		"name": "BwaRC",
 		 "author": "@bwato",
-		"link": "https://bwa.to/rc",
+		"link": "http://bwa.to/rc",
 		"descr": "Новая версия. Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
 		"available_lampa": 1
 		},
